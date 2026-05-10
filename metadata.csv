@@ -1,0 +1,31 @@
+filename,ground_truth,locality,condition
+01_koramangala_quiet.m4a,Haan bhai main Koramangala side rehta hoon.,Koramangala,quiet
+02_indiranagar_traffic.m4a,Mera office Indiranagar ke paas hai.,Indiranagar,traffic
+03_whitefield_phonecall.m4a,Abhi Whitefield se bol raha hoon.,Whitefield,phonecall
+04_electroniccity_rushed.m4a,Electronic City jaana hai kal subah.,Electronic City,rushed
+05_marathahalli_fan_noise.m4a,Marathahalli mein traffic bahut tha aaj.,Marathahalli,fan_noise
+06_jayanagar_quiet.m4a,Main usually Jayanagar side se cab leta hoon.,Jayanagar,quiet
+07_rajajinagar_whispered.m4a,Rajajinagar mein ek interview tha mera.,Rajajinagar,whispered
+08_hebbal_traffic.m4a,Hebbal flyover ke paas ruk gaya tha.,Hebbal,traffic
+09_yelahanka_far_mic.m4a,Yelahanka side mein ghar dekh rahe hain.,Yelahanka,far_mic
+10_banashankari_quiet.m4a,Banashankari tak kitna time lagega?,Banashankari,quiet
+11_hsr_layout_quiet.m4a,"Hello sir, main HSR Layout se bol raha hoon.",HSR Layout,quiet
+12_btm_layout_fastpaced.m4a,BTM Layout mein delivery kar raha tha.,BTM Layout,fastpaced
+13_majestic_heavy_traffic.m4a,Majestic ke paas utar diya mujhe.,Majestic,heavy_traffic
+14_silk_board_frustrated.m4a,Silk Board pe abhi bhi traffic hai kya?,Silk Board,frustrated
+15_bellandur_low_volume.m4a,Bellandur side network issue aa raha hai.,Bellandur,low_volume
+16_sarjapur_far_mic.m4a,Sarjapur road pe bahut rush tha.,Sarjapur,far_mic
+17_bommanahalli_slightstutter.m4a,Bommanahalli ke paas hi hoon abhi.,Bommanahalli,slight_stutter
+18_krpuram_fastpaced.m4a,KR Puram station se nikal gaya.,KR Puram,fastpaced
+19_peenya_whisper.m4a,Peenya side factory area mein kaam karta hoon.,Peenya,whisper
+20_yashwanthpur_traffic.m4a,Yeshwanthpur se bus mil jayegi kya?,Yeshwanthpur,traffic
+21_byatarayanapura_quiet.m4a,Byatarayanapura mein relative rehte hain.,Byatarayanapura,quiet
+22_kadugondanahalli_farnoise.m4a,Kadugondanahalli side jaana safe hai kya?,Kadugondanahalli,far_noise
+23_hesaraghatta_fastpaced.m4a,Hesaraghatta ke paas event tha kal.,Hesaraghatta,fastpaced
+24_chikkabanavara_traffic.m4a,Chikkabanavara mein room mil gaya finally.,Chikkabanavara,traffic
+25_rajarajeshwarinagar_quiet.m4a,Rajarajeshwarinagar bahut door padta hai yaar.,Rajarajeshwarinagar,quiet
+26_kothanurdinne_fastpaced.m4a,Kothanur Dinne side address bhejta hoon.,Kothanur Dinne,fastpaced
+27_thanisandra_whisper.m4a,Thanisandra mein new apartment liya hai.,Thanisandra,whisper
+28_doddanekundi_far_nosie.m4a,Doddanekundi ke paas signal pe hoon.,Doddanekundi,far_noise
+29_kenegeri_upanagara_fan_noise.m4a,Kengeri Upanagara se metro pakdi maine.,Kengeri Upanagara,fan_noise
+30_thalaghattapura_traffic.m4a,Thalaghattapura tak auto wala extra maang raha tha.,Thalaghattapura,traffic
